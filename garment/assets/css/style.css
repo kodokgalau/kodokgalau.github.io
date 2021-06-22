@@ -29,6 +29,7 @@
 # Destinations
 # Features
 # Funfact
+# Carousel
 # Tour Search
 --------------------------------------------------------------*/
 
@@ -920,7 +921,7 @@ li {
   position: relative;
   display: block;
   padding: 27px 0;
-  background: #ffffff;
+  background: transparent;
 }
 .header_top_two_inner {
 }
@@ -6718,4 +6719,15 @@ li {
   outline: none;
   display: block;
   height: 535px;
+}
+
+/*--------------------------------------------------------------
+# Warna Teks Terang
+--------------------------------------------------------------*/
+
+.whitetext {
+	color: #ffffff;
+}
+.blacktext {
+	color: #000000;
 }
